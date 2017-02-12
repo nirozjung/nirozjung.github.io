@@ -12,7 +12,7 @@ What I am right now doing?
 
 I try myself to work on my incomplete projects.
 
-I am learning about software development everday
+I am learning about software development everyday
 I’m (re-)learning German, listening to podcasts.
 
 I am reading books Organized mind, Tibetan Tantric Buddhism, Social Skills for Developers, other Technological book related with Java and Functional Programming. 

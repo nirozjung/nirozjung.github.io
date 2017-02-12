@@ -13,7 +13,7 @@ Well, there are lots of things to learn in life and I am continuosly struggling 
 One thing constantly triggers my mind, what and how can I add value to my society using technology and internet. I would be very much glad if people sharing common interests to shout at me and I will shout you back and wish to have a wonderful colloborative teamwork to create value within us, may it be in social entreprenurial or anything commerical to agriculture. 
 
 
-Check out the [nirozjungkarki.com][my personal site] for more info about me. All my works will be hosted in my [GitHub repo][my-github]. If you have want to donate for my work, you can are mostly welcome at [Paypal Donate][paypal-donate].
+Check out the [my personal site][my-site] for more info about me. All my works will be hosted in my [GitHub repo][my-github]. If you have want to donate for my work, you can are mostly welcome at [Paypal Donate][paypal-donate].
 
 [my-site]: http://nirozjungkarki.com
 [my-github]:   https://github.com/nirozjung

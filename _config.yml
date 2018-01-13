@@ -9,7 +9,7 @@
 title: Niroz Jung Karki
 email: karkinirozjung@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Farmer - Meditator - Cyclist - Wanderer - Minimalist - Husband - Software Engineer & Technology Enthusiast
+ Husband Farmer Meditator Cyclist Wanderer Minimalist Software Engineer Technology Enthusiast
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://nirozjung.github.io" # the base hostname & protocol for your site
 
@@ -24,9 +24,9 @@ facebook_username: nirozjung
 linkedin_url: https://www.linkedin.com/in/nirozjung/
 
 # Address information
-address_street: Bürgermeister-Götz-Straße 50
+address_street: Bürgermeister-Götz-Straße 50 
 #address_city: 
-#address_state: Bayern
+#address_state: 
 address_zip: 86529 Schrobenhausen
 
 # Build settings

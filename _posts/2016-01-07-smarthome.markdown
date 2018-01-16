@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Smart City : Pokhara"
-date:   2015-01-01 15:00:10 -0500
+title:  "Smart Home : Pokhara"
+date:   2016-01-07 15:08:10 -0500
 img: img/portfolio/traditional-oldhouse.png
 modalID: modalSmartcity
 category: Technology

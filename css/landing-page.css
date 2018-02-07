@@ -1,3 +1,4 @@
+/* instagram stuffs*/
 #instafeed img {
 display:inline-block;
 padding:3px;
@@ -20,13 +21,20 @@ p.copyright {
     margin-top: 30px;
 }
 
-.intro-message {
-    position: relative;
-    padding-top: 20%;
+/*+ All about the navbar test*/
+
+
+ /* Ananada Namaste Fonst */
+@font-face {
+    font-family: 'ananda_neptouch_2regular';
+    src: url('fonts/ananda_neptouch_2-webfont.woff2') format('woff2'),
+         url('fonts/ananda_neptouch_2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
-.intro-message > h1 {
-    margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+.alt-font {
+	font-family: 'ananda_neptouch_2regular', sans-serif !important;
+	
 }
+

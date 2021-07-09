@@ -5,6 +5,7 @@ date:   2016-01-06 15:08:10 -0500
 img: img/portfolio/pokhara.png
 modalID: modalSmartcity
 category: Technology
+published: false
 ---
 For the Green city
 

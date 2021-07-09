@@ -4,7 +4,8 @@ title:  "How I learned React"
 date:   2019-11-25 00:15:00 -0500
 img: img/portfolio/react.png
 modalID: modalSmartcity
-category: Technology
+category: Technology+
+published: false
 ---
 
 Life is crazy and React is more crazy. In my meditation classes, many gurus said Please donot react as much as you can. 

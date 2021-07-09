@@ -5,6 +5,7 @@ title:  "And, I got married"
 img: img/portfolio/marriage.png
 modalID: modalCirc
 category: Desig
+published: false
 ---
 
 In March 2016, after completing my Masters, I went to visit NewYork. I got to know Sabina from her relative there. After coming back, I gave a call to Sabina, and we began exchanging about each others. As we both became intersted in each other, having common interests, we decided to meet personally in London in May of 2017. After meeting in London, we decided to get married and stay together forever. 

@@ -1,0 +1,219 @@
+I"�<p>Braking</p>
+<ul>
+  <li>Standard Braking Distance = (Geschwindigkeit/10) * (Geschwindigkeit/10)</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Speed</strong></th>
+      <th><strong>Braking Distance</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30 km/h</td>
+      <td><strong>9m</strong></td>
+    </tr>
+    <tr>
+      <td>50 km/h</td>
+      <td>25m</td>
+    </tr>
+    <tr>
+      <td>60 km/h</td>
+      <td>36m</td>
+    </tr>
+    <tr>
+      <td>100 km/h</td>
+      <td>100m</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Anhalteweg = Reaktionsweg + Bremsweg. (Reaktionsweg = Geschwindigkeit <em>3 geteilt durch 10) und (Bremsweg=Geschwindigkeit</em>Geschwindigkeit geteilt durch 100) Bei 100 km/h bedeutet das 30 m + 100 m = 130 m.</p>
+
+<ul>
+  <li>Evasive Geschwindigkeit (Emergency Braking Distance) = ((Geschwindigkeit/10)*(Geschwindigkeit/10)) / 2</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Speed</strong></th>
+      <th><strong>Braking Distance</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30 km/h</td>
+      <td>4.5 m</td>
+    </tr>
+    <tr>
+      <td>50 km/h</td>
+      <td>12.5m</td>
+    </tr>
+    <tr>
+      <td>60 km/h</td>
+      <td>18 m</td>
+    </tr>
+    <tr>
+      <td>100 km/h</td>
+      <td>50 m</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Reaction Distance = (Geschwindigkeit/10)*3</p>
+
+<ul>
+  <li>You increase your speed from 50 km/h to 100km/h. How is the Standard braking distance changed according to rule of thumb ?</li>
+  <li>quadrupled from 25, to 100m (100/10)*(100/10)= 100 m</li>
+</ul>
+
+<p>Parking</p>
+
+<ul>
+  <li>Who is parked
+    <ul>
+      <li>anyone who leave his vehicle.</li>
+      <li>anyone who stops for more than 3 minutes.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Towing</p>
+
+<ul class="task-list">
+  <li>What must you do after coupling up a single-axle trailer with overrun brakes?</li>
+  <li>Raise the jack wheel, if fitted, to the highest setting</li>
+  <li>Attach the brakeaway cable to the coupling of the motor vehicle</li>
+  <li>
+    <p>Check that the brakes are working</p>
+  </li>
+  <li>You want to tow another vehicle with your car. What must you know?</li>
+  <li>must have at least driving permit class BE</li>
+  <li>
+    <p>must at least have permit B  - right one</p>
+  </li>
+  <li>You are driving your car and caravan trailer (length of combination of vehicles exceeding 7 m) outside built-up areas on a road with only one marked lane in each direction. What must you remember?</li>
+  <li>You may not drive faster than 60 km/h</li>
+  <li>The distance from the car in front must not be greater than the length of your combination of vehicles in order to make best use of traffic space</li>
+  <li>
+    <p>As a rule, the distance from a car in front must be great enough to allow an overtaking car to pull in</p>
+  </li>
+  <li>What is the permissible minimum tread depth of the main tread of all your vehicle”s tyres?</li>
+  <li>
+    <p>The minimum tread depth amounts to 1,60 mm</p>
+  </li>
+  <li>You want to transport holiday luggage on the roof of your fully loaded car. What is the roof load limited by?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />The stipulations of the vehicle‘s manufacturer in the owner‘s manual (right)</li>
+  <li class="task-list-item"><del>The roof load indicated in the vehicle registration certificate (Fahrzeugschein)</del></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />The permissible total mass of the car. (right)</li>
+</ul>
+
+<p>(Alt+N = tilde character)</p>
+
+<p>Environment and Pollution</p>
+
+<ul>
+  <li>what can help save fuel and reduce pollution ?</li>
+  <li>Contributing to a constant flow of traffic by thinking ahead and driving correspondingly</li>
+  <li>Paying attention to the fuel consumption of a motor vehicle when buying it</li>
+  <li>Using public transport, a bicycle or walking, wherever possible</li>
+</ul>
+
+<p>Verhalten in Staßenverkher</p>
+
+<ul>
+  <li>While you are driving a car you get a call on your mobile phone. What must you be aware of here, if you do not have a hands-free set?</li>
+  <li>The engine must be switched off in order to use the telephone</li>
+  <li>The journey must be interrupted in order to use the telephone</li>
+</ul>
+
+<p>Tyre</p>
+<ul>
+  <li>What can you check on your tyre ?</li>
+  <li>Uniform wear of the profile (right)</li>
+  <li>Profile (right)</li>
+  <li>The age of the tyre (right)</li>
+</ul>
+
+<p>Note- when turning left, always allows vehicle coming from opposite direction to go. 
+(Da Linksabbieger entgegenkommende Fahrzeuge durchfahren lassen müssen, darf ich erst nach dem entgegenkommenden Fahrzeug abbiegen. )</p>
+
+<p>2s distance ?</p>
+
+<p>You are driving at 80 km/h behind a motor vehicle. What is the minimum safe distance you must observe?</p>
+
+<p>Ihre Lösung
+A “distance of 1 second”
+A “distance of 2 seconds”  right
+A distance of 15 metres</p>
+
+<p>When overtaking, what do you have to observe regarding spacing?
+Ihre Lösung
+Maintain an adequate space to the side, particularly between the vehicle and persons (right)
+To maintain a greater side spacing towards multi-lane vehicles than towards single-lane vehicles
+To maintain an adequate space to the side between the vehicle and other road users (right)</p>
+
+<p>A strong side wind is blowing from the right. When are you particularly exposed to danger when overtaking?
+Ihre Lösung
+When you enter the slipstream of the truck (right)
+When you leave the slipstream of the truck (right)
+When you change lane after overtaking</p>
+
+<ul>
+  <li>
+    <p>Which vehicle must use HardShoudler ?
+Slow-moving agricultural tractors and machinery (right)
+Mopeds (right)
+Small-engine motorcycles (wrong)</p>
+  </li>
+  <li>
+    <p>What is the correct response if, when reversing a combination vehicle the view to the rear is impeded?
+If the line-of-sight is broken to the person directing, the vehicle must be stopped
+A person directing is only required when driving into a priority road
+A person directing is not needed when on a factory premises</p>
+  </li>
+</ul>
+
+<p>What applies on clearways for motor vehicles only?
+Ihre Lösung
+In darkness, you may drive faster than the range of visibility allowed by dipped headlights (wrong)
+No U-turns  (right)
+Join the clearway only at crossroads and junctions (right)</p>
+
+<p>The brakes on your car are pulling strongly to one side. What effects can this have when you are braking?
+Ihre Lösung
+Your car can veer to the side (right)
+Anti-lock braking system (ABS) fails (wrong)
+Longer braking distance (right)</p>
+
+<ul>
+  <li>You are holding a driving permit class B. Your car has the following specifications: - empty mass 1900 kg - permissible total mass 2400 kg - permissible towed load 1500 kg Which trailer are you allowed to tow?
+A trailer with a permissible total mass of
+Ihre Lösung
+1500 kg
+1000 kg (right)
+1200 kg</li>
+</ul>
+
+<p>For class B the following applies: The total permissible mass of the car and trailer must not exceed 3500 kg. There is an exception only if the maximum permissible weight of the trailer does not exceed 750 kg and the towing vehicle is max. 3500 kg total mass permitted.</p>
+
+<ul>
+  <li>A car is fitted with winter tyres (M+S). A sticker reading “Mit M+S 160” is attached to the dashboard. What does it mean?
+ You must not drive faster than 160 km/h</li>
+</ul>
+
+<p>You want to turn out of a road with a sunken kerbstone into another road. A car is coming from the left. What applies here?
+Ihre Lösung
+The sunken kerbstone is of no relevance for the obligation to wait wrong
+Whoever turns into a road over a sunken kerbstone must wait  right
+The rule “right before left” wrong</p>
+
+<ul>
+  <li>You are travelling at 50 km/h, have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?</li>
+  <li>40 m (Anhalteweg = Reaktionsweg + Bremsweg. (Reaktionsweg = Geschwindigkeit <em>3 geteilt durch 10) und (Bremsweg=Geschwindigkeit</em>Geschwindigkeit geteilt durch 100) Bei 50 km/h bedeutet das 15 m + 25 m = 40 m.)</li>
+</ul>
+
+:ET
